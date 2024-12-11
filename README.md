@@ -17,4 +17,6 @@ Technologies Used:
 This project aims to provide actionable insights for both job seekers looking to understand market demands and employers seeking to identify trends and opportunities in the talent pool.
 
 
+Contact Information 📧 For any questions, collaborations, or if you’re interested in utilizing this solution for your business, feel free to contact me:
 
+Email: [marwaanalysis@gmail.com] LinkedIn: [www.linkedin.com/in/marwa-mostafa-982197337]
